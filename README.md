@@ -37,6 +37,10 @@ https://github.com/77lwx/Team-Gallery.git
 
 ![image](https://github.com/77lwx/Team-Gallery/blob/master/%E5%9C%BA%E6%99%AF/%E5%9B%A2%E9%98%9F%E7%BC%96%E8%BE%91.jpg)
 
+**AI扩图**
+
+![image](https://github.com/77lwx/Team-Gallery/blob/master/%E5%9C%BA%E6%99%AF/AI%E6%89%A9%E5%9B%BE.jpg)
+
 **空间管理**
 
 ![image](https://github.com/77lwx/Team-Gallery/blob/master/%E5%9C%BA%E6%99%AF/%E7%A9%BA%E9%97%B4%E5%88%86%E6%9E%90.jpg)
